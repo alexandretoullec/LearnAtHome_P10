@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T08:50:13.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="vvqTACDaLiGjr3baAZEj" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T08:54:44.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="u9wLEdkz6tNDaVr8oZUI" version="21.8.2" type="github">
   <diagram name="Page-1" id="7VhbfdrJlDJMxZoAq6ko">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -216,7 +216,7 @@
           <mxGeometry x="40" y="1690" width="1080" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KMu5VocUdlGMF7wmwmVv-106" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2520" width="1080" height="679" as="geometry" />
+          <mxGeometry x="40" y="2543" width="1080" height="679" as="geometry" />
         </mxCell>
         <mxCell id="KMu5VocUdlGMF7wmwmVv-107" value="Teach@Home" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-106">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -227,7 +227,7 @@
         <mxCell id="KMu5VocUdlGMF7wmwmVv-109" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-106">
           <mxGeometry x="430" y="230" width="200" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="KMu5VocUdlGMF7wmwmVv-110" value="Sign In" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
+        <mxCell id="KMu5VocUdlGMF7wmwmVv-110" value="Signup" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
           <mxGeometry width="100" height="20" relative="1" as="geometry">
             <mxPoint x="10" y="10" as="offset" />
           </mxGeometry>
@@ -247,46 +247,46 @@
             <mxPoint x="10" y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KMu5VocUdlGMF7wmwmVv-114" value="Password:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
-          <mxGeometry width="100" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="95" as="offset" />
+        <mxCell id="KMu5VocUdlGMF7wmwmVv-114" value="Confirm Password:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
+          <mxGeometry width="140" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="197" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KMu5VocUdlGMF7wmwmVv-115" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
           <mxGeometry width="150" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="115" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KMu5VocUdlGMF7wmwmVv-116" value="SIGN IN" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
-          <mxGeometry y="1" width="80" height="30" relative="1" as="geometry">
-            <mxPoint x="20" y="-150" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KMu5VocUdlGMF7wmwmVv-117" value="Forgot Password?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#9999ff;align=left;spacingLeft=0;fontStyle=4;resizeWidth=1;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
-          <mxGeometry y="1" width="150" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="-110" as="offset" />
+            <mxPoint x="10" y="167" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KMu5VocUdlGMF7wmwmVv-118" value="" style="shape=line;strokeColor=#ddeeff;strokeWidth=2;html=1;resizeWidth=1;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
           <mxGeometry y="1" width="180" height="10" relative="1" as="geometry">
-            <mxPoint x="10" y="-90" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KMu5VocUdlGMF7wmwmVv-119" value="New User" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;spacingLeft=0;resizeWidth=1;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
-          <mxGeometry y="1" width="150" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="-70" as="offset" />
+            <mxPoint x="10" y="-53" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KMu5VocUdlGMF7wmwmVv-120" value="SIGN UP" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
           <mxGeometry y="1" width="80" height="30" relative="1" as="geometry">
-            <mxPoint x="20" y="-50" as="offset" />
+            <mxPoint x="45" y="-43" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KMu5VocUdlGMF7wmwmVv-124" value="Password:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
+          <mxGeometry x="10" y="147" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KMu5VocUdlGMF7wmwmVv-125" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
+          <mxGeometry x="10" y="217" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="KMu5VocUdlGMF7wmwmVv-127" value="User Name:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
+          <mxGeometry x="10" y="92" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KMu5VocUdlGMF7wmwmVv-128" value="johndoe" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-109">
+          <mxGeometry x="10" y="112" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KMu5VocUdlGMF7wmwmVv-121" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-106">
           <mxGeometry x="60" y="159" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KMu5VocUdlGMF7wmwmVv-122" value="LOGO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-106">
           <mxGeometry x="135" y="184" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KMu5VocUdlGMF7wmwmVv-123" value="Sign Up" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2490" width="1080" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
