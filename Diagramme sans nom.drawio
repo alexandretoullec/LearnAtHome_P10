@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T08:28:48.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="2546nsJsY6Uc4O2ONdgS" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T08:34:20.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="djixAda0CGUKRfpq6jHa" version="21.8.2" type="github">
   <diagram name="Page-1" id="7VhbfdrJlDJMxZoAq6ko">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="120" y="175" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KMu5VocUdlGMF7wmwmVv-31" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;fontColor=#666666;fontSize=17;verticalAlign=top;whiteSpace=wrap;fillColor=#ffffff;spacingTop=32;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-1">
-          <mxGeometry x="170" y="330" width="610" height="250" as="geometry" />
+          <mxGeometry x="220" y="300" width="610" height="250" as="geometry" />
         </mxCell>
         <mxCell id="KMu5VocUdlGMF7wmwmVv-32" value="Login Type" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;strokeColor=#666666;align=left;spacingLeft=8;fillColor=#ffffff;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-31">
           <mxGeometry width="610" height="30" relative="1" as="geometry" />
@@ -30,7 +30,7 @@
             <mxPoint x="-25" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KMu5VocUdlGMF7wmwmVv-34" value="OK" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=16;fontColor=#666666;strokeColor=#c4c4c4;resizable=0;whiteSpace=wrap;fillColor=#ffffff;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-31">
+        <mxCell id="KMu5VocUdlGMF7wmwmVv-34" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=16;fontColor=#666666;strokeColor=#c4c4c4;resizable=0;whiteSpace=wrap;fillColor=#ffffff;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-31">
           <mxGeometry x="0.5" y="1" width="120" height="25" relative="1" as="geometry">
             <mxPoint x="-60" y="-33" as="offset" />
           </mxGeometry>
@@ -116,6 +116,9 @@
         </mxCell>
         <mxCell id="KMu5VocUdlGMF7wmwmVv-22" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-19">
           <mxGeometry x="60" y="159" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMu5VocUdlGMF7wmwmVv-39" value="LOGO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KMu5VocUdlGMF7wmwmVv-19">
+          <mxGeometry x="135" y="184" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
